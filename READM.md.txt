@@ -1,0 +1,4 @@
+###  :triangular_ruler:Calculadora de áreas e perímetros de figuras geométricas :triangular_ruler:
+
+Com ela podemos escolher se queremos calcular a área ou perímetro das seguintes figuras: triângulo, quadrado, retângulo, círculo, trapézio e losango.
+
